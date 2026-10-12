@@ -13,10 +13,10 @@
 
 各フォルダは、その回が終わった時点の完成コードです。
 
-| 回 | 内容 | フォルダ |
-| --- | --- | --- |
-| 第1回 | 画面を作る | `01_screen` |
-| 第2回 | タイマーを動かす | `02_timer` |
+| 回 | 内容 | フォルダ |ブログ|
+| --- | --- | --- | ---|
+| 第1回 | 画面を作る | `01_screen` |[Reactで学ぶ 学習タイマー開発（第1回）～画面を作る～【GitHub対応】](https://pc-labo.online/2026/10/10/learning-study-timer-development-with-react-part1/)|
+| 第2回 | タイマーを動かす | `02_timer` |[Reactで学ぶ 学習タイマー開発（第2回）～タイマーを動かす～【GitHub対応】](https://pc-labo.online/2026/10/11/learning-study-timer-development-with-react-part2/)
 | 第3回 | ずれないタイマーにする | 準備中 |
 | 第4回 | アナログ時計で表示する | 準備中 |
 | 第5回 | 終了をお知らせする | 準備中 |
